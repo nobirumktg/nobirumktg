@@ -42205,7 +42205,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: none;
+  background-image: linear-gradient(#fbeced, #e9f2fa);
 }
 
 .u-header .u-sheet-1 {
